@@ -35,7 +35,3 @@ You can click the Preview link to take a look at your changes.
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
-
-## 🚀 GitHub Stats
-
-![Arindom's GitHub stats](https://github-readme-stats.vercel.app/api?username=arindom-s&show_icons=true&count_private=true&hide=prs&theme=radical)
